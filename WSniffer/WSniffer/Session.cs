@@ -8,5 +8,6 @@ namespace WSniffer
 {
     class Session
     {
+
     }
 }
